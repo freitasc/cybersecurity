@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -178,9 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a61c73695eb847",
+  "active": "e5fe938c39fb434b",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Welcome.md"
+    "Welcome.md",
+    "Untitled.base"
   ]
 }

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c532614bbacee5d8",
+        "id": "dc4117fecdafbbcd",
         "type": "tabs",
         "children": [
           {
-            "id": "e42d130f4b384a05",
+            "id": "f08c156f38ba6aec",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,9 +177,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5fe938c39fb434b",
+  "active": "d7a61c73695eb847",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Untitled.base"
+    "98- Templates/Vulnerability.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management",
+    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations",
+    "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture",
+    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations",
+    "04- Certs/CompTIA Security+ (SY0-701)/Untitled.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts",
+    "1-",
+    "98- Templates/Class.md",
+    "98- Templates/CTF.md",
+    "98- Templates/Tool.md",
+    "4- Certs/CompTIA Security+ (SY0-701)",
+    "4- Certs/OSCP",
+    "2- Vulnerabilities/Networking",
+    "2- Vulnerabilities/Kerberos",
+    "wdadawd.md",
+    "1- Hacking/Tools/Aircrack-ng.md",
+    "99- Tags/OffSec/Kali.md",
+    "99- Tags/Threats & Attacks/Evil-Twin.md",
+    "99- Tags/Identity & Access (IAM)/Authorization.md",
+    "99- Tags/Identity & Access (IAM)/Authentication.md",
+    "99- Tags/OffSec/Reverse-Shell.md",
+    "99- Tags/OffSec/Payloads.md",
+    "99- Tags/OffSec/Post-Exploitation.md",
+    "99- Tags/OffSec/Exploitation.md",
+    "99- Tags/OffSec/Vulnerability-Scanning.md",
+    "99- Tags/OffSec/Enumeration.md",
+    "99- Tags/OffSec/Reconnaissance.md",
+    "99- Tags/Identity & Access (IAM)/Active-Directory.md",
+    "99- Tags/Identity & Access (IAM)/Biometrics.md",
+    "99- Tags/Identity & Access (IAM)/Privilege-Escalation.md",
+    "99- Tags/Identity & Access (IAM)/Multi-Factor.md",
+    "r adwnaid.md",
+    "99- Tags/Network & Wireless/WEP.md",
+    "99- Tags/Network & Wireless/WPA2.md"
   ]
 }

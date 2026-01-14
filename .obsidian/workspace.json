@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2924af516efd1d3a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c773b0bcc0d474cc",
+  "active": "2924af516efd1d3a",
   "lastOpenFiles": [
     "Untitled.md",
     "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/Non-repudiation.md",

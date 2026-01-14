@@ -1,0 +1,31 @@
+Tags: [[Security Controls]], [[Governance]]
+
+## What is it?
+
+- Prevent Access
+- Channel people through a specific access point
+- Identify safety concerns 
+- Can be use to an extreme
+## Additional Information
+
+- #### Access control vestibules
+	- All doors are normally unlocked
+	- Opening one door causes others to lock
+	- Closing all doors makes all unlocked again
+	- ==One at a time, controlled groups==
+- #### Fencing / Barricading
+- #### Cameras / CCTV (Closed circuit television)
+- #### Guards / Police / Soldiers
+- #### Access Badge or Physical Identification
+- #### Illuminate dark areas
+- #### Sensors
+	- Infrared
+	- Pressure
+	- Microwave
+	- Ultrasonic
+	- etc
+## Related Notes
+
+
+
+## References

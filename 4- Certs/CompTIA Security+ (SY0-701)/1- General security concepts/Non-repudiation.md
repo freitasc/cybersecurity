@@ -1,0 +1,35 @@
+Tags: [[Integrity]], [[Digital-Signatures]], [[Hashing]], [[Private Key]], [[Public Key]], [[Symmetric-Encryption]], [[Asymmetric-Encryption]]
+
+## What is it?
+
+- You can't deny what you've said
+	- There is no taking back
+- Sign a contract
+	- Your signature adds non-repudiation
+	- You really did sign the contract
+	- Others can see your signature as proof
+- Adds a different perspective for cryptography
+	- Proof of integrity
+	- Proof of origin, with high assurance of authenticity
+
+## Additional Information
+
+- ### Proof of integrity
+	- Verify data does not change
+	- In cryptography, we use a hash
+	- If the data changes, the hash changes almost completely, easily checkable 
+	- Doesn't necessarily associate data with an individual
+
+- ### Proof of origin
+	- Prove the message was not changed: ==INTEGRITY==
+	- Prove the source of the message: ==AUTHENTICATION==
+	- Make sure the signature isn't fake
+	- #### ==THE BEST WAY TO ENSURE THIS IS USING PKs==
+		- Sign with the private key
+			- The message doesn't need to be encrypted
+			- Nobody else can sign this
+		- Verify with the public key
+			- Any change to the message will invalidate the signature
+
+![[Pasted image 20260114103000.png]]
+![[Pasted image 20260114103017.png]]

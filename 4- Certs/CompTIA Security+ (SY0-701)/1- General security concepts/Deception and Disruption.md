@@ -1,0 +1,35 @@
+Tags: [[Governance]], [[Social-Engineering]], [[Risk-Management]]
+
+## What is it?
+
+- Feed them shit and keep them in the dark
+- Set-up traps
+- Think as a criminal to break criminals
+## Additional Information
+
+- #### Honeypots
+	- Attract a crminal and trap them there
+	- The attacker is probably a machine
+	- Fake virtual world made for trapping and doing recon on an enemy
+	- Constant race between providers making it look real and attackers discerning real from fake
+	  - ==Honeynets are the new big deal on honeypots==
+		  - instead of 1 machine, it consists of simulation of a real network
+		  - Multiple servers, workstations, routers, switches, firewalls...
+	  - https://projecthoneypot.org
+	  - Honeyfiles are bait for the honeynet (password.txt)
+		  - An alert is sent if the file is accessed
+		  - Virtual bear trap
+	  - Honeytokens track malicious actors
+		  - Traceable data in the honeynet
+		  - If the data is stolen, you will know where it came from
+		  - API credentials that does not actually provide access
+		  - An alert is sent if honeytoken credential is used on the API
+		  - Fake vulnerable email addresses, if an attacker tries to social engineer thru it, he will be caught with dirty hands
+		  - Embedded pixels or data on a image that can discriminate who/where the criminal is
+		  - ==IT CAN BE ANY TYPE OF DATA, USE YOUR IMAGINATION, THINK LIKE A CRIMINAL==
+
+## Related Notes
+
+
+
+## References

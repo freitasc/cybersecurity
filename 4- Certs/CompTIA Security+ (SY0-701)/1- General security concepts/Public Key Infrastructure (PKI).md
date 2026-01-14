@@ -1,0 +1,68 @@
+Tags: [[Public Key]], [[Private Key]], [[Symmetric-Encryption]], [[Asymmetric-Encryption]], [[Digital-Signatures]], [[Certificates]], [[Security Controls]], [[Acronym]]
+
+## What is it?
+
+- Policies, procedures, hardware, software, people
+	- Digital certificates: create, distribute, manage, store, revoke
+- This is a big, big endeavor
+	- Lots of planning
+- Also refers to the binding of public keys to people or devices
+	- The certificate Authority
+	- It's all about trust
+
+## Additional Information
+
+- #### Symmetric Encryption
+	- A single, shared key
+	- Encrypt, with the key
+	- Decrypt with the same key
+	- If it gets out, you'll need another key
+- Secret Key Algorithm
+	- A shared secret
+- Doesn't scale very well
+	- Can be challenging to distribute
+- Very fast to use
+	- Less overhead that asymmetric encryption
+	- Often combined with asymmetric encryption
+
+- #### Asymmetric encryption
+	- Public key cryptography
+		- Two (or more) mathematically related keys
+	- Private Key
+		- Keep this private
+		- ==THE PRIVATE KEY IS THE ONLY KEY THAT CAN DECRYPT DATA ENCRYPTED WITH THE PUBLIC KEY==
+		- You can't derive the private key from the public key
+	- Public key
+		- Anyone can see this key, Give it away
+		- ==THE PUBLIC KEY CAN ENCRYPT DATA THAT CAN ONLY BE DECRYPTED WITH THE PRIVATE KEY==
+		- You can't derive the public key from the private key
+	- The key pair
+		- Asymmetric encryption
+			- Public Key cryptography
+		- Key generation
+			- Builds both the public and the private key at the same time using a lot of math
+			- Lots of randomization
+			- Large prime numbers
+		- Everyone can have the public key, only you can have the private key.
+
+- #### The key lengths
+	- Larger keys tend to be more secure
+		- Prevent or deter brute-force attacks
+		- Attackers can try every possible key combination
+	- Symmetric encryption
+		- 128-bit or larger symmetric keys are common
+		- These numbers get larger and larger as time goes on
+	- Asymmetric encryption
+		- Complex calculations of prime numbers
+		- Larger keys than symmetric encryption
+		- Common to see key lengths of 3072 bits or larger
+	- Key stretching is possible
+		- Make a weak key stronger by performing multiple processes of encrypting
+		- Hashing a password, hash the hash of the password...
+		- Key stretching = key strengthening 
+## Related Notes
+
+![[Pasted image 20260114154406.png]]
+
+![[Pasted image 20260114154622.png]]
+## References

@@ -1,0 +1,12 @@
+
+- A single, shared key
+	- Encrypt, with the key
+	- Decrypt with the same key
+	- If it gets out, you'll need another key
+- Secret Key Algorithm
+	- A shared secret
+- Doesnt scale very well
+	- Can be challenging to distribute
+- Very fast to use
+	- Less overhead that asymmetric encryption
+	- Often combined with asymmetric encryption

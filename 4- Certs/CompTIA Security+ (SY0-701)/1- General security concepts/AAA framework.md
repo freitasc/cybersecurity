@@ -1,4 +1,4 @@
-Tags: [[Authentication]], [[Authorization]], [[Accounting]], [[Multi-Factor]], [[Certificates]]
+Tags: [[Authentication]], [[Authorization]], [[Accounting]], [[Multi-Factor]], [[Certificates]], [[Acronym]]
 
 ## What is it?
 

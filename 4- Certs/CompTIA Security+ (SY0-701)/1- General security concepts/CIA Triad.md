@@ -1,4 +1,4 @@
-Tags: [[Certificates]], [[Digital-Signatures]], [[Multi-Factor]], [[Confidentiality]] [[Integrity]], [[Availability]], [[Private Key]], [[Hashing]]
+Tags: [[Certificates]], [[Digital-Signatures]], [[Multi-Factor]], [[Confidentiality]] [[Integrity]], [[Availability]], [[Private Key]], [[Hashing]], [[Acronym]]
 
 ## What is it?
 

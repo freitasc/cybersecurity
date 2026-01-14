@@ -1,0 +1,47 @@
+Tags: [[Asymmetric-Encryption]], [[Symmetric-Encryption]], [[Certificates]], [[Digital-Signatures]], [[Public Key Infrastructure (PKI)]]
+
+aka: Encrypting data at rest / data-at-rest
+## What is it?
+
+- Protect data on storage devices
+	- SSD, HD, USB, cloud etc
+- Full-disk and partition / volume encrypition
+	- BitLocker, FileVault, etc.
+- File encryption
+	- EFS (Encrypting File System) comes with linux
+## Additional Information
+
+- #### Database Encryption
+	- Protecting stored data and the transmission of that data
+	- Transparent encryption
+		- Encrypt all database info with a symmetric key
+	- Record-level encryption
+		- Encrypt individual columns
+		- User separate symmetric keys for each collumn
+
+![[Pasted image 20260114155342.png]]
+![[Pasted image 20260114155413.png]]
+
+But... Encrypting everything creates a enormous overhead, since every time I need to search the database, I need to decrypt it entirely...
+
+The solution: Encrypting only the most crucial info, like SSN (social security number)
+
+![[Pasted image 20260114155611.png]]
+
+- #### Transport Encryption
+	- Protect data traversing the network
+		- You're probably doing this now
+	- Encrypting in the application
+		- Browsers can communicate using HTTPS
+	- VPN (Virtual Private Network)
+		- Encrypts all data transmitted over the network, regardless of the application, creating an encrypted tunnel
+		- Client-based VPN using SSL/TLS
+		- Site-to-site VPN using IPSEC
+
+![[Pasted image 20260114155838.png]]
+
+## Related Notes
+
+![[Pasted image 20260114160025.png]]
+
+## References

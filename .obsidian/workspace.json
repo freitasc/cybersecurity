@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a225b49eab9133b5",
+        "id": "2cb0ebd6e142b032",
         "type": "tabs",
         "children": [
           {
-            "id": "a6f8495a6712c6bc",
+            "id": "04676777a8853ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98- Templates/Class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class"
+            }
+          },
+          {
+            "id": "64962dec3641b777",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,8 +30,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "cd576c16d1aa9d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98- Templates/Tool.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tool"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,12 +198,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,34 +216,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6f8495a6712c6bc",
+  "active": "06060890cef3969d",
   "lastOpenFiles": [
-    "99- Tags/Cryptography/Digital-Signatures.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Encrypting stored data.md",
-    "97- Images/Pasted image 20260114103017.png",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Obfuscation.md",
-    "2- Vulnerabilities/OpenSSL/CVE-2014-0160.md",
-    "99- Tags/Cryptography/Certificates.md",
+    "Untitled.md",
+    "98- Templates/template.md",
+    "98- Templates/Tool.md",
+    "Untitled 1.md",
+    "rebeca.md",
     "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Certificate.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Public Key Infrastructure (PKI).md",
+    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.3 - Change management.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - Gap analysis.md",
+    "98- Templates/Class.md",
+    "98- Templates/Vulnerability.md",
+    "98- Templates/CTF.md",
+    "99- Tags/Cryptography/Digital-Signatures.md",
+    "99- Tags/Cryptography/Asymmetric-Encryption.md",
+    "99- Tags/Cryptography/Certificates.md",
+    "99- Tags/Strategy/Risk-Management.md",
+    "99- Tags/Strategy/Governance.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.1 - Security Controls.md",
+    "99- Tags/Misc/Acronym.md",
+    "99- Tags/Identity & Access (IAM)/Active-Directory.md",
+    "99- Tags/Identity & Access (IAM)/Authentication.md",
+    "99- Tags/Identity & Access (IAM)/Authorization.md",
+    "99- Tags/Identity & Access (IAM)/Multi-Factor.md",
+    "99- Tags/Identity & Access (IAM)/Biometrics.md",
+    "99- Tags/Cryptography/Private Key.md",
+    "99- Tags/Cryptography/Hashing.md",
+    "97- Images/Pasted image 20260114103017.png",
     "2- Vulnerabilities/OpenSSL",
     "Pasted image 20260114174204.png",
     "97- Images/Pasted image 20260114174121.png",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Trusted Platform Module (TPM).md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Public Key Infrastructure (PKI).md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Hashing and Digital Signatures.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Key Exchange.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Blockchain.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.3 - Technical change management.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.3 - Change management.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - Deception and Disruption.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - Physical Security.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - Zero trust.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - Gap analysis.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - AAA framework.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - Non-repudiation.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - CIA Triad.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.1 - Security Controls.md",
-    "99- Tags/Cryptography/Hashing.md",
     "97- Images/Pasted image 20260114172004.png",
     "97- Images/Pasted image 20260114103000.png",
     "Pasted image 20260114171624.png",
@@ -223,10 +255,7 @@
     "97- Images/Pasted image 20260114104253.png",
     "97- Images/Pasted image 20260114110110.png",
     "97- Images/Pasted image 20260114105654.png",
-    "99- Tags/Cryptography/Steganography.md",
-    "99- Tags/Misc/Acronym.md",
     "99- Tags/Misc",
-    "99- Tags/Cryptography/Asymmetric-Encryption.md",
     "97- Images",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations",

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.4 - Denial of Service (DoS).md",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Denial of Service (DoS).md",
                 "mode": "source",
                 "source": false
               },
@@ -218,12 +218,13 @@
   },
   "active": "40dd96f0337c3d0a",
   "lastOpenFiles": [
+    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Physical attacks.md",
+    "2.4 - DNS attacks.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Denial of Service (DoS).md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Virtualization Security.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Cross-site scripting.md",
     "99- Tags/Threats & Attacks/APT.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Overview of Malware.md",
-    "2.4 - Denial of Service (DoS).md",
-    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Physical attacks.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Hardware Vulnerabilities.md",
     "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.1 - Security Controls.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - SQL Injection.md",
@@ -244,7 +245,6 @@
     "98- Templates/Class.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.1 - Threat Actors.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.2 - Impersonation.md",
-    "99- Tags/Threats & Attacks/Phishing.md",
     "97- Images/Pasted image 20260114103017.png",
     "2- Vulnerabilities/OpenSSL",
     "Pasted image 20260114174204.png",

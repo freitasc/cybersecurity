@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "2.3 - SQL Injection"
             }
+          },
+          {
+            "id": "901cc123d624b2f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a61c73695eb847",
+  "active": "901cc123d624b2f9",
   "lastOpenFiles": [
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Operating System Vulnerabilities.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - SQL Injection.md",

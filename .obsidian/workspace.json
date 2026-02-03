@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Segmantation and Access Control.md",
+                "file": "2- Vulnerabilities/OpenSSL/CVE-2014-0160.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 - Segmantation and Access Control"
+              "title": "CVE-2014-0160"
             }
           }
         ],
@@ -321,8 +321,9 @@
   },
   "active": "fdb85fc06873b231",
   "lastOpenFiles": [
-    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Mitication techniques.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.1 - Security Controls.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Segmantation and Access Control.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Mitication techniques.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Indicators of Compromise (IOC).md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Password Attacks.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Cryptographic Attacks.md",
@@ -340,7 +341,6 @@
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Cross-site scripting.md",
     "99- Tags/Threats & Attacks/APT.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Hardware Vulnerabilities.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.1 - Security Controls.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - SQL Injection.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Operating System Vulnerabilities.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Zero-day Vulnerabilities.md",

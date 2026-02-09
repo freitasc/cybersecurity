@@ -4,94 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "adfe7e9ee905b582",
+        "id": "50e1bb8b5a416f57",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd6a5b26b2bc227",
+            "id": "331d4662d8528be1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.9 - Log Data.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4.9 - Log Data"
-            }
-          },
-          {
-            "id": "4db03026eea7339b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Policies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1 - Security Policies"
-            }
-          },
-          {
-            "id": "682deef9989d36d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Standards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1 - Security Standards"
-            }
-          },
-          {
-            "id": "64d32ce307dac6c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Standards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1 - Security Standards"
-            }
-          },
-          {
-            "id": "f5074eda042130d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Considerations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5.1 - Security Considerations"
-            }
-          },
-          {
-            "id": "4fd15a0bae9f4059",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 5.1 - Data Roles and Responsabilities"
             }
           },
           {
@@ -225,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 5.1 - Data Roles and Responsabilities"
             }
           },
           {
@@ -263,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fd15a0bae9f4059",
+  "active": "45bf8436869d76f7",
   "lastOpenFiles": [
-    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
     "Untitled.base",
+    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Considerations.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Procedures.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Standards.md",

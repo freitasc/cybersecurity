@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Segmantation and Access Control.md",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Identity and Access Management (IAM).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.5 - Segmantation and Access Control"
+              "title": "Outline of 4.5 - Identity and Access Management (IAM)"
             }
           },
           {
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a61c73695eb847",
+  "active": "45bf8436869d76f7",
   "lastOpenFiles": [
     "97- Images/Pasted image 20260209132751.png",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Endpoint security.md",

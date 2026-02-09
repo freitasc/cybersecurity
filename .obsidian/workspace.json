@@ -4,81 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4916699ca93b88c4",
+        "id": "6a1b8ae8e509a6d1",
         "type": "tabs",
         "children": [
           {
-            "id": "7ccfa4688b3962a0",
+            "id": "4879b5c7f06431af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Web Filtering.md",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Endpoint security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5 - Web Filtering"
+              "title": "4.5 - Endpoint security"
             }
           },
           {
-            "id": "ad8a9e291c7fdcf9",
+            "id": "c7c0b3cc84046055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Active Directory.md",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Identity and Access Management (IAM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.5 - Active Directory"
-            }
-          },
-          {
-            "id": "f6a69dd9e6de95d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Secure Protocols.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.5 - Secure Protocols"
-            }
-          },
-          {
-            "id": "173c25cdb043f887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Monitoring Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.5 - Monitoring Data"
-            }
-          },
-          {
-            "id": "7531a9552e371c4e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Secure Protocols.md",
-                "bFile": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Secure Protocols.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 4.5 - Secure Protocols  (Working Tree)"
+              "title": "4.5 - Identity and Access Management (IAM)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Identity and Access Management (IAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 4.5 - Identity and Access Management (IAM)"
             }
           },
           {
@@ -249,16 +208,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7531a9552e371c4e",
+  "active": "d7a61c73695eb847",
   "lastOpenFiles": [
-    "4.5 - Endpoint security.md",
+    "97- Images/Pasted image 20260209132751.png",
+    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Endpoint security.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Identity and Access Management (IAM).md",
+    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Secure Protocols.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Monitoring Data.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Web Filtering.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Email Security.md",
     "99- Tags/Network & Wireless/Proxy.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.4 - Security Tools.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Firewall.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Secure Protocols.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.5 - Active Directory.md",
     "97- Images/Pasted image 20260209115017.png",
     "99- Tags/DevOps/Infra as Code.md",
@@ -277,8 +238,6 @@
     "99- Tags/OffSec/Vulnerability Scanning.md",
     "99- Tags/OffSec/Penetration Testing.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.3 - Vulnerability Scanning.md",
-    "99- Tags/DevOps/SCA.md",
-    "99- Tags/DevOps/IaC Scanning.md",
     "99- Tags/OSI Layers",
     "99- Tags/DevOps",
     "Untitled 1",

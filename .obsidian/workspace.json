@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "a28e7cd890b12433",
+            "id": "d5f9f824658cf3ba",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "5.2 - Risk Management.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "5.2 - Risk Management"
             }
           }
         ],
@@ -168,12 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "5.2 - Risk Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 5.2 - Risk Management"
             }
           },
           {
@@ -205,8 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a28e7cd890b12433",
+  "active": "d5f9f824658cf3ba",
   "lastOpenFiles": [
+    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.6 - Multifactor Authentication (MFA).md",
+    "5.2 - Risk Management.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
     "Untitled.base",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Considerations.md",
@@ -227,7 +232,6 @@
     "Untitled",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.7 - Scripting and Automation.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.6 - Password Security.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.6 - Multifactor Authentication (MFA).md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.6 - Access Control.md",
     "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.1 - Other Infra concepts.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.2 - Threat Vectors.md",

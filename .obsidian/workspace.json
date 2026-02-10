@@ -11,13 +11,30 @@
             "id": "331d4662d8528be1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.6 - Multifactor Authentication (MFA).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4.6 - Multifactor Authentication (MFA)"
+            }
+          },
+          {
+            "id": "a28e7cd890b12433",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.6 - Multifactor Authentication (MFA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5.1 - Data Roles and Responsabilities"
+              "title": "Outgoing links from 4.6 - Multifactor Authentication (MFA)"
             }
           },
           {
@@ -151,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.1 - Data Roles and Responsabilities"
+              "title": "Outline"
             }
           },
           {
@@ -189,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45bf8436869d76f7",
+  "active": "a28e7cd890b12433",
   "lastOpenFiles": [
-    "Untitled.base",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Data Roles and Responsabilities.md",
+    "Untitled.base",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Considerations.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Procedures.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Standards.md",

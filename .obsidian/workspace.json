@@ -11,10 +11,14 @@
             "id": "b3267a36b861b3ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.2 - Business Impact Analysis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5.2 - Business Impact Analysis"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.2 - Business Impact Analysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 5.2 - Business Impact Analysis"
             }
           },
           {
@@ -188,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a61c73695eb847",
+  "active": "b3267a36b861b3ec",
   "lastOpenFiles": [
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.1 - Threat Actors.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - MAC Flooding.md",

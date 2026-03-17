@@ -68,3 +68,5 @@ Tags: [[Cloud]], [[Posture]], [[Risk-Management]]
 
 
 ## References
+
+https://www.paloaltonetworks.ca/cyberpedia/what-is-cloud-security-posture-management

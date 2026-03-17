@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Security Tools/Palo Alto/CNAPP/Modules/Cloud Security Posture Management (CSPM).md",
+                "file": "5- Security Tools/CNAPP/Cloud Security Posture Management (CSPM).md",
                 "mode": "source",
                 "source": false
               },
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Security Tools/Palo Alto/CNAPP/Modules/Cloud Workload Protection (CWP).md",
+                "file": "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Workload Protection (CWP)"
+              "title": "Cloud Application Security (CAS)"
             }
           }
         ],
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Security Tools/Palo Alto/CNAPP/Modules/Cloud Workload Protection (CWP).md",
+                "file": "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Workload Protection (CWP)"
+              "title": "Outline of Cloud Application Security (CAS)"
             }
           },
           {
@@ -220,9 +220,11 @@
   },
   "active": "269a8721154b59ee",
   "lastOpenFiles": [
-    "5- Security Tools/Palo Alto/CNAPP/Modules/Cloud Security Posture Management (CSPM).md",
-    "5- Security Tools/Palo Alto/CNAPP/Modules/Cloud Workload Protection (CWP).md",
-    "5- Security Tools/Palo Alto/CNAPP",
+    "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
+    "99- Tags/DevOps/IaC Scanning.md",
+    "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
+    "5- Security Tools/CNAPP/Cloud Security Posture Management (CSPM).md",
+    "5- Security Tools/CNAPP",
     "97- Images/PaloAlto/Pasted image 20260317113703.png",
     "97- Images/PaloAlto/Pasted image 20260317112808.png",
     "97- Images/PaloAlto",
@@ -238,7 +240,7 @@
     "97- Images",
     "99- Tags/DefSec/Posture.md",
     "99- Tags/DefSec/SIEM.md",
-    "5- Security Tools/Palo Alto/CNAPP/Modules",
+    "5- Security Tools/CNAPP/Modules",
     "5- Security Tools/Palo Alto/Cortex Cloud",
     "5- Security Tools/Palo Alto/Prisma Cloud",
     "5- Security Tools/Palo Alto",
@@ -256,8 +258,6 @@
     "99- Tags/OSI Layers/L3-Network.md",
     "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.3 - States of Data.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.2 - Risk Analysis.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.3 - Data Types and Classifications.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Standards.md",
     "Pasted image 20260210112732.png",
     "Untitled.base",
     "97- Images/Security+/Pasted image 20260209132751.png",

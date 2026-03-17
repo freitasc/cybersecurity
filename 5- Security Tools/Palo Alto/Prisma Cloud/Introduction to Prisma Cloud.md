@@ -18,20 +18,20 @@ Prisma Cloud is Palo Alto Networks' flagship **Cloud Native Application Protecti
 
 Prisma Cloud is divided into several modules that work together to provide a holistic security posture:
 
-- **CSPM (Cloud Security Posture Management):** * Continuous monitoring of cloud configurations (AWS, Azure, GCP, OCI).
+- **CSPM (Cloud Security Posture Management):** Continuous monitoring of cloud configurations (AWS, Azure, GCP, OCI).
     - Automated remediation of misconfigurations (e.g., publicly accessible S3 buckets).
     - Compliance reporting for frameworks like SOC2, HIPAA, and GDPR.
 
-- **CWPP (Cloud Workload Protection Platform):** * Secures Hosts (VMs), Containers (Kubernetes), and Serverless (Lambda).
+- **CWPP (Cloud Workload Protection Platform):** Secures Hosts (VMs), Containers (Kubernetes), and Serverless (Lambda).
     - Uses **Defenders** (agents) for runtime protection and **Agentless Scanning** for visibility.
 
-- **CIEM (Cloud Infrastructure Entitlement Management):** * Analyzes permissions to enforce **Least Privilege**.
+- **CIEM (Cloud Infrastructure Entitlement Management):** Analyzes permissions to enforce **Least Privilege**.
     - Identifies "Net Effective Permissions" to see what a user _can_ do versus what they _actually_ do.
 
-- **DSPM (Data Security Posture Management):** * Automatically discovers and classifies sensitive data (PII, financial data) in cloud storage.
+- **DSPM (Data Security Posture Management):** Automatically discovers and classifies sensitive data (PII, financial data) in cloud storage.
     - Assesses risks like data exposure or unauthorized access paths.
 
-- **WAAS (Web App & API Security):** * Protects against OWASP Top 10 threats, bot attacks, and API abuse from within the workload.
+- **WAAS (Web App & API Security):** Protects against OWASP Top 10 threats, bot attacks, and API abuse from within the workload.
 
 ---
 
@@ -71,3 +71,13 @@ Prisma Cloud offers flexibility in how it gathers data and protects environments
 - **Shift-Left Integration:** Seamlessly integrates with tools like Jenkins, GitHub Actions, GitLab, and Terraform.
 
 - **Regulatory Readiness:** Built-in templates for global compliance standards, making audits significantly faster for security teams.
+
+---
+
+### 6. Offered Versions
+
+- **Prisma Cloud Enterprise Edition (PCEE)** - This is the SaaS version of Prisma Cloud, where Palo Alto Networks hosts the console and manages the underlying infrastructure and patches and updates to the console. 
+	- **It is the only flavor where all of the modules above (CSPM, CWP, CAS) are offered to our customers.**
+
+- **Prisma Cloud Compute Edition (PCCE)** - This is the self-hosted version of Prisma Cloud, where the customer must deploy the self-hosted console onto their infrastructure and manage all patches and upgrades themselves. 
+	- **This version only includes the CWP module of Prisma Cloud.**

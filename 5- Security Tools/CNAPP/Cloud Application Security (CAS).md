@@ -1,4 +1,4 @@
-Tags: [[Cloud]], [[CI CD]], [[IaC Scanning]], [[SCA]], [[SAST and DAST]]
+Tags: [[Palo Alto]], [[Cloud]], [[CI CD]], [[IaC Scanning]], [[SCA]], [[SAST and DAST]]
 
 ## What is it?
 
@@ -47,3 +47,5 @@ Tags: [[Cloud]], [[CI CD]], [[IaC Scanning]], [[SCA]], [[SAST and DAST]]
 
 
 ## References
+
+https://www.paloaltonetworks.ca/cyberpedia/what-is-code-security

@@ -79,16 +79,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
+                "file": "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Workload Protection (CWP)"
+              "title": "Cloud Application Security (CAS)"
+            }
+          },
+          {
+            "id": "fcdb27f84529c7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5- Security Tools/Palo Alto/Cortex Cloud/Introduction to Cortex Cloud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Cortex Cloud"
+            }
+          },
+          {
+            "id": "dafffc88010d0add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Application Security (CAS)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -222,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
+                "file": "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Workload Protection (CWP)"
+              "title": "Outline of Cloud Application Security (CAS)"
             }
           },
           {
@@ -260,13 +288,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2646d043ee402794",
+  "active": "dafffc88010d0add",
   "lastOpenFiles": [
+    "5- Security Tools/CNAPP/Cloud Infrastructure Entitlement Management (CIEM).md",
+    "5- Security Tools/CNAPP/Cloud Security Posture Management (CSPM).md",
     "5- Security Tools/CNAPP/Data Security Posture Management (DSPM).md",
     "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
-    "5- Security Tools/CNAPP/Cloud Security Posture Management (CSPM).md",
-    "5- Security Tools/CNAPP/Cloud Infrastructure Entitlement Management (CIEM).md",
+    "5- Security Tools/Palo Alto/Prisma Cloud/Introduction to Prisma Cloud.md",
+    "5- Security Tools/Palo Alto/Cortex Cloud/Introduction to Cortex Cloud.md",
     "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
+    "99- Tags/DevOps/Cloud.md",
+    "99- Tags/Manufacturers/Palo Alto.md",
+    "99- Tags/Manufacturers",
     "97- Images/PaloAlto/Pasted image 20260317135847.png",
     "Pasted image 20260317135141.png",
     "Pasted image 20260317135140.png",
@@ -278,7 +311,6 @@
     "Untitled 1.md",
     "97- Images/PaloAlto/Pasted image 20260317134121.png",
     "99- Tags/DefSec/IAM.md",
-    "Untitled",
     "97- Images/PaloAlto/Pasted image 20260317125623.png",
     "99- Tags/DevOps/IaC Scanning.md",
     "5- Security Tools/CNAPP",
@@ -303,9 +335,6 @@
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.3 - Vulnerability Scanning.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.5 - Penetration Tests.md",
     "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Encrypting stored data.md",
-    "99- Tags/Threats & Attacks/Evil-Twin.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.3 - Agreement Types.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.2 - Secure Communication.md",
     "Untitled.base"
   ]
 }

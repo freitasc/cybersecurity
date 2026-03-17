@@ -1,4 +1,4 @@
-Tags: [[Cloud]], [[Container]], [[IaC Scanning]],
+Tags: [[Palo Alto]], [[Cloud]], [[Container]], [[IaC Scanning]],
 
 ## What is it?
 

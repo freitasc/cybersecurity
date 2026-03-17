@@ -1,4 +1,4 @@
-Tags: [[Cloud]], [[IaC Scanning]], [[Authorization]], [[Authentication]]
+Tags: [[Palo Alto]], [[Cloud]], [[Authorization]], [[Authentication]], [[Compliance]]
 
 ## What is it?
 
@@ -55,3 +55,5 @@ Example:
 
 
 ## References
+
+https://www.paloaltonetworks.ca/cyberpedia/what-is-ciem

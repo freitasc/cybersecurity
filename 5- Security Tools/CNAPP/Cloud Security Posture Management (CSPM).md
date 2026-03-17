@@ -1,4 +1,4 @@
-Tags: [[Cloud]], [[Posture]], [[Risk-Management]]
+Tags: [[Palo Alto]], [[Cloud]], [[Posture]], [[Risk-Management]], [[Compliance]]
 
 ## What is it?
 

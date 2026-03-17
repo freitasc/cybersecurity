@@ -1,4 +1,4 @@
-Tags: [[Cloud]], [[Risk-Management]], [[Posture]], [[Authorization]], [[Symmetric-Encryption]]
+Tags: [[Palo Alto]], [[Cloud]], [[Risk-Management]], [[Posture]], [[Authorization]], [[Symmetric-Encryption]], [[Compliance]]
 
 ## What is it?
 
@@ -40,6 +40,9 @@ Tags: [[Cloud]], [[Risk-Management]], [[Posture]], [[Authorization]], [[Symmetri
 		- Regular audits help ensure that security controls are effective and the organization remains compliant with data protection regulations.
 	- Incident Response and Remediation
 		- In the event of a security incident, data posture management accelerates incident response by providing the necessary information to quickly identify affected data, assess the scope of the breach, and implement remediation measures to minimize the impact.
+
+---
+
 - DSPM Capabilities
 	- Comprehensive Data Discovery
 		- Scanning cloud environments and on-premises datastores to locate and catalog data assets, DSPM can discover shadow data and enable organizations to understand and address their attack surface.
@@ -66,6 +69,9 @@ Tags: [[Cloud]], [[Risk-Management]], [[Posture]], [[Authorization]], [[Symmetri
 			- tokenization
 			- access restrictions
 			- others
+
+---
+
 - DSPM functionalities
 	- Data loss prevention (DLP): DPL capabilities consist of monitoring and controlling data movement within an organization, helping prevent unauthorized access, data leaks, and breaches.
 	- Encryption: DSPM solutions provide data encryption and decryption capabilities, safeguarding sensitive data at rest and in transit.
@@ -80,6 +86,6 @@ Tags: [[Cloud]], [[Risk-Management]], [[Posture]], [[Authorization]], [[Symmetri
 
 ## Related Notes
 
-
-
 ## References
+
+https://www.paloaltonetworks.ca/cyberpedia/what-is-dspm

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.3 - Agreement Types.md",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Policies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 - Agreement Types"
+              "title": "5.1 - Security Policies"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.3 - Agreement Types.md",
+                "file": "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.1 - Security Policies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.3 - Agreement Types"
+              "title": "Outline of 5.1 - Security Policies"
             }
           },
           {
@@ -193,13 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a61c73695eb847",
+  "active": "b3267a36b861b3ec",
   "lastOpenFiles": [
+    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.4 - Security Tools.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.3 - Vulnerability Scanning.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.5 - Penetration Tests.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Encrypting stored data.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - DNS Attacks.md",
+    "99- Tags/Threats & Attacks/Evil-Twin.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Malicious Code.md",
+    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.3 - Agreement Types.md",
     "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.2 - Secure Communication.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Network Infrastructure Concepts.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Denial of Service (DoS).md",
     "99- Tags/OSI Layers/L3-Network.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Encrypting stored data.md",
     "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.3 - States of Data.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.2 - Risk Analysis.md",
     "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.3 - Data Types and Classifications.md",
@@ -207,7 +215,6 @@
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Password Attacks.md",
     "99- Tags/Threats & Attacks/Brute-Force.md",
     "4- Certs/CompTIA Security+ (SY0-701)/4- Security operations/4.6 - Password Security.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.3 - Agreement Types.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.2 - Business Impact Analysis.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.1 - Threat Actors.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - MAC Flooding.md",
@@ -215,12 +222,6 @@
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Wireless Attacks.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Bluetooth.md",
     "99- Tags/Network & Wireless/Bluetooth.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Hardware Vulnerabilities.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Public Key Infrastructure (PKI).md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.4 - Obfuscation.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/1- General security concepts/1.2 - Physical Security.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.4 - Power Resiliency.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.4 - Capacity planning.md",
     "Pasted image 20260210112732.png",
     "97- Images/Pasted image 20260210112736.png",
     "97- Images/Pasted image 20260210111424.png",

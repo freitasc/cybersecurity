@@ -1,7 +1,8 @@
-Tags: [[Cloud]], [[Container]], [[IaC Scanning]]
+Tags: [[Cloud]], [[Container]], [[IaC Scanning]],
 
 ## What is it?
 
+- Visibility for containers, VMs, pods etc.
 - A security solution engineered to address the unique requirements of protecting workloads in cloud environments.
 - [Workloads](https://www.paloaltonetworks.ca/cyberpedia/what-is-workload) can be hosted on a range of infrastructures, from traditional virtual machines to modern containers and serverless functions.
 - Through various security controls, CWPPs preserve the integrity, confidentiality and availability of workloads.

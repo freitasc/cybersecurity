@@ -2,6 +2,7 @@ Tags: [[Cloud]], [[CI CD]], [[IaC Scanning]], [[SCA]], [[SAST and DAST]]
 
 ## What is it?
 
+- AKA Code Security
 - Code security for applications focuses on identifying known vulnerabilities in source code, dependencies and open source packages.
 ## Additional Information
 

@@ -58,9 +58,37 @@
               "icon": "lucide-file",
               "title": "Cloud Application Security (CAS)"
             }
+          },
+          {
+            "id": "7a490ab78c50955d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5- Security Tools/CNAPP/Data Security Posture Management (DSPM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Security Posture Management (DSPM)"
+            }
+          },
+          {
+            "id": "2646d043ee402794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Workload Protection (CWP)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 400.5
   },
   "right": {
     "id": "5a16b0133cebc216",
@@ -194,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
+                "file": "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Application Security (CAS)"
+              "title": "Outline of Cloud Workload Protection (CWP)"
             }
           },
           {
@@ -232,20 +260,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5050563d1a2ed9cc",
+  "active": "2646d043ee402794",
   "lastOpenFiles": [
-    "Untitled.md",
+    "5- Security Tools/CNAPP/Data Security Posture Management (DSPM).md",
+    "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
+    "5- Security Tools/CNAPP/Cloud Security Posture Management (CSPM).md",
+    "5- Security Tools/CNAPP/Cloud Infrastructure Entitlement Management (CIEM).md",
     "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
+    "97- Images/PaloAlto/Pasted image 20260317135847.png",
+    "Pasted image 20260317135141.png",
+    "Pasted image 20260317135140.png",
+    "Pasted image 20260317135130.png",
+    "Pasted image 20260317135120.png",
+    "97- Images/PaloAlto/output-onlinepngtools.png",
+    "prisma-cloud-cyberpedia-what-is-ciem-new-identities-new.png",
+    "Pasted image 20260317134939.png",
+    "Untitled 1.md",
+    "97- Images/PaloAlto/Pasted image 20260317134121.png",
+    "99- Tags/DefSec/IAM.md",
     "Untitled",
     "97- Images/PaloAlto/Pasted image 20260317125623.png",
-    "5- Security Tools/CNAPP/Cloud Workload Protection (CWP).md",
     "99- Tags/DevOps/IaC Scanning.md",
-    "5- Security Tools/CNAPP/Cloud Security Posture Management (CSPM).md",
     "5- Security Tools/CNAPP",
-    "97- Images/PaloAlto/Pasted image 20260317113703.png",
-    "97- Images/PaloAlto/Pasted image 20260317112808.png",
     "97- Images/PaloAlto",
-    "97- Images/Security+/Pasted image 20260210112736.png",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Cloud Infra.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Physical Attacks.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Malicious Code.md",
@@ -253,7 +290,6 @@
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Mobile Device Vulnerabilities.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Memory Injection.md",
     "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.3 - Cross-site scripting.md",
-    "97- Images/Security+/Pasted image 20260210111424.png",
     "97- Images",
     "99- Tags/DefSec/Posture.md",
     "99- Tags/DefSec/SIEM.md",
@@ -270,15 +306,6 @@
     "99- Tags/Threats & Attacks/Evil-Twin.md",
     "4- Certs/CompTIA Security+ (SY0-701)/5- Security management/5.3 - Agreement Types.md",
     "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.2 - Secure Communication.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.5 - Network Infrastructure Concepts.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/2- Threats, vulnerabilities, and mitigations/2.4 - Denial of Service (DoS).md",
-    "99- Tags/OSI Layers/L3-Network.md",
-    "4- Certs/CompTIA Security+ (SY0-701)/3- Security architecture/3.3 - States of Data.md",
-    "Pasted image 20260210112732.png",
-    "Untitled.base",
-    "97- Images/Security+/Pasted image 20260209132751.png",
-    "97- Images/Security+/Pasted image 20260209115017.png",
-    "97- Images/Security+/Pasted image 20260203201413.png",
-    "97- Images/Security+/Pasted image 20260203201109.png"
+    "Untitled.base"
   ]
 }

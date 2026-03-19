@@ -5,11 +5,11 @@ Tags: [[Cloud]], [[Container]], [[Hardening]]
 - Protecting containers, clusters, VMs, databases etc
 ## Additional Information
 
-### CORTEX GUI
+### Rules & Policies
 
-- Using the Cortex GUI: It is mainly for SDLC and before-deploy stage
-	- Cloud Workload Policies serve as enforcement mechanisms that govern the responses to the identified findings.
-	- Cloud Workload Rules establish the criteria for evaluation but do not initiate any actions unless incorporated within a policy.
+- Cloud Workload Policies serve as enforcement mechanisms that govern the responses to the identified findings.
+- Cloud Workload Rules establish the criteria for evaluation but do not initiate any actions unless incorporated within a policy.
+
 #### Policies
 
 - Cloud Workload Policies serve as enforcement mechanisms that govern the responses to the identified findings.
@@ -36,8 +36,43 @@ Tags: [[Cloud]], [[Container]], [[Hardening]]
 		- [Kubernetes Connector:](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/Cortex-XDR-Cloud-Documentation/What-s-new-in-Kubernetes-Connector) Rules that use the Kubernetes Connector scanner to inspect Kubernetes environment variables and resources such as Namespaces, ReplicaSets, Deployments and more.
 		- [XDR Agent:](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/Cortex-XDR-Cloud-Documentation/Install-Cortex-XDR-agents) Rules that use XDR Agent Scanner to perform custom compliance checks by executing user-defined Python scripts, offering a tailored approach to compliance validation.
 
-### CORTEX CLI
+### Agentless vs Agent-based (XDR)
 
+| **Agentless**                                                                                                                                                                   | **Agents (Cortex XDR)**                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Simplified visibility into vulnerability and compliance                                                                                                                         | Continuous, real-time runtime protection                                                                                                                          |
+| **Distributed Access -** For distributed environments across different teams, gettings access to deploy agents is difficult                                                     | **Defense in Depth -** For sensitive workloads, deploy defenders/agents to gain deep insights into running processes, runtime forensics, behavioral analysis etc. |
+| **First step in securing -** start with agentless security as soon as you on board accounts for first look into all hosts without need for running deployment scripts per hosts | **Advanced security with active prevention -** Actively prevent access to sensitive file systems or malware from being deployed with block capabilities           |
+| **No running management -** Agentless uses snapshot based scanning, with no running tools inside your environment to manage                                                     | **Continuous monitoring -** For instances where you require continuous and immediate alerts                                                                       
+
+- The original Prisma Defender got absorbed into Cortex XDR
+- Now, the agent is not a workload-monitoring only agent, it extends as a full Extended Detection and Response
+
+#### Agentless
+
+- All agentless scans can be triggered by rules and policies
+- Agentless can scan full VM images and it is automatically enabled upon onboarding
+- Agentless can full disk scan on a machine
+- Agentless can scan container images and container registries
+- Agentless can integrate through API gateways to provide Web and API Security
+	- It sits an Out-of-Band NDR
+	- In-depth scans, thorough analysis, and timely alerts to detect and mitigate security risks and potential vulnerabilities effectively.
+	- It cannot respond, as it is not running on the affected machine, it can only generate alerts.
+
+####  Agent-based (XDR)
+
+- XDR is a endpoint and server protection by combining multiple capabilities
+	- AI-driven analytics
+	- endpoint controls
+	- next-generation antivirus
+	- automated investigation to detect and respond to threats across various environments
+- XDR detects anomalies and threats using machine learning and behavioral models across endpoint, network, and identity data.
+- XDR, differently than Agentless, can not only detect but actively respond to threats
+- Cortex XDR auto-identifies if a host is running a container orchestrator.
+- XDR can also act as a In-Line NDR, reading and responding into the network in real time
+	- It can generate alerts for abnormal network behavior, such as port scan activity.
+	- It can proactively respond, providing real-time protection 
+- XDR employs Agentic AI to streamline security operations
 
 
 

@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Security Tools/Palo Alto/Prisma Cloud/Workload Protection in Prisma.md",
+                "file": "5- Security Tools/Palo Alto/Cortex Cloud/Workload Protection in Cortex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workload Protection in Prisma"
+              "title": "Workload Protection in Cortex"
             }
           }
         ],
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5- Security Tools/Palo Alto/Prisma Cloud/Workload Protection in Prisma.md",
+                "file": "5- Security Tools/Palo Alto/Cortex Cloud/Workload Protection in Cortex.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Workload Protection in Prisma"
+              "title": "Sumário de Workload Protection in Cortex"
             }
           },
           {
@@ -232,9 +232,9 @@
   },
   "active": "34dee82a33e1b690",
   "lastOpenFiles": [
+    "5- Security Tools/Palo Alto/Prisma Cloud/Workload Protection in Prisma.md",
     "5- Security Tools/Palo Alto/Cortex Cloud/Workload Protection in Cortex.md",
     "5- Security Tools/Palo Alto/Cortex Cloud/Introduction to Cortex Cloud.md",
-    "5- Security Tools/Palo Alto/Prisma Cloud/Workload Protection in Prisma.md",
     "5- Security Tools/Palo Alto/Prisma Cloud/Introduction to Prisma Cloud.md",
     "5- Security Tools/CNAPP/Cloud Application Security (CAS).md",
     "5- Security Tools/CNAPP/Data Security Posture Management (DSPM).md",

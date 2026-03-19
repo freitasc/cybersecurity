@@ -74,7 +74,17 @@ Tags: [[Cloud]], [[Container]], [[Hardening]]
 	- It can proactively respond, providing real-time protection 
 - XDR employs Agentic AI to streamline security operations
 
+### Cortex CLI for CWP
 
+- You can integrate Cloud Workload Protection scans for secrets, vulnerabilities and malware during your continuous integration (CI) process
+- The `cortexcli image scan` command allows you to perform CWP scans on container images. 
+- By default, `cortexcli` scans images directly from your local Docker daemon's repository. You can also specify an image archive file to scan instead.
+- To scan an image that exists in your local Docker daemon, simply provide its name:
+
+`./cortexcli --api-base-url <API URL> --api-key <API key from the "Authenticate" step in the CLI connector screen> --api-key-id <API key ID from the "Authenticate" step in the CLI connector screen> image scan <image name>`
+
+- This way you can scan the images from containers in a agentless approach and on-demand
+- You can also subscribe this commands to a routine into your CI, crontab or whatever
 
 ## Related Notes
 
